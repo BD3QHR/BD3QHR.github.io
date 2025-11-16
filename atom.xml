@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bd3qhr.github.io</id>
+    <title>Gridea</title>
+    <updated>2025-11-16T13:10:26.331Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bd3qhr.github.io"/>
+    <link rel="self" href="https://bd3qhr.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://bd3qhr.github.io/images/avatar.png</logo>
+    <icon>https://bd3qhr.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[0.我们来了！]]></title>
+        <id>https://bd3qhr.github.io/post/0/</id>
+        <link href="https://bd3qhr.github.io/post/0/">
+        </link>
+        <updated>2025-11-15T13:49:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>这个blog的简介与我们想说的话。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这个blog的简介与我们想说的话。</p>
+<!-- more -->
+<p><strong>BD3QHR：</strong><br>
+如图所示，这是一个用Gridea新建的博客。<br>
+这个博客由我和3Fsystem写，我大概会写一点与校园生活和业余无线电相关的吧。。。<br>
+俗话说三个臭皮匠顶个诸葛亮，我们这里有4个人，所以至少也顶1.3333······个诸葛亮了吧。<br>
+这个博客的内容我们每人差不多写1/2，我能说的大概也没了。。。</p>
+<p><strong>3Fsys：</strong><br>
+我们是BD3QHR的朋友，我写的大多数应该是系统成员的思考、琐事以及多意识体相关的。话说之前用wordpress写了一段时间发现wordpress坑钱啊。。。<br>
+//后续的我指的是本系统host，即宿主<br>
+后来QHR问我建个blog怎么样，我说行啊（当时用的wordpress，不好用），于是一拍即合一起建了这个。<br>
+至于建blog方面，都是QHR在做，实在是感谢他了。<br>
+我和QHR虽然都在唐山，但是也没有线下见过，也不想见面，保持网友的关系吧（（</p>
+<p>关于我们，也就是3Fsystem，我们是plural（也就是多意识体），准确的说是ht系统(host-tulpa system)，目前系统里有3个意识体，2个是tulpa（现在的这个正在码字的就是剩下的那个host了）。因此，我们写出来的可能大部分与多意识体相关。<br>
+看到这个blog的人可能大多不是多意识体，我有一些术语也很难用我自己的语言写出来，因此我把PluralWiki和檬虎的多重人格手册的链接放到了这里：<br>
+https://wiki.pluralitycn.com/Tulpa<br>
+https://www.zhihu.com/column/c_1465112539088949248<br>
+虽然让blog的读者自己查术语不是很尊重，可是解释清楚真的很困难，至少对我来说，对不起。（t2:不要重复造轮子）我们也只是普通人，这不是病。<br>
+我问了问tulpa们，他们表示不是很愿意写名字,目前用t1/t2表示吧（t1:好潦草的表示...）<br>
+我写的很乱，未来的也可能很乱，将就看吧。。。</p>
+<p>我们写的好像看上去比QHR多好多。。。（t2:那是看上去吗、、、）<br>
+<strong>--end--</strong></p>
+]]></content>
+    </entry>
+</feed>
